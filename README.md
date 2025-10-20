@@ -1,16 +1,36 @@
-## Hi there 👋
+# hey, I’m Shekib
 
-<!--
-**devlyno/devlyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer dev who loves building things that just work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stack
+
+### frontend
+- React (main)
+- Next.js (modern fullstack)
+- Vue (learned, sometimes used)
+- Vite (light & instant builds)
+- TailwindCSS (utility-first styling)
+- ShadCN (clean UI components)
+
+### backend
+- TypeScript (always typed)
+- JavaScript (when needed)
+- Node.js (main runtime)
+- Lua (for game scripting)
+- SQL (structured data)
+- MySQL / MariaDB (databases)
+- Docker (containers & setups)
+
+### tools
+- Git (version control)
+- VS Code / Cursor (main editors — fast, AI-assisted workflow)
+- Linux / Windows (dev environments)
+
+---
+
+## mindset
+- clear code > clever tricks  
+- performance matters  
+- build what you’d actually use
